@@ -1,3 +1,4 @@
+#This is log1 conflict change
 /*
  * mdclog.c
  *
