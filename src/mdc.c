@@ -23,6 +23,9 @@
  * The thread MDC list is destroyed when the thread exits.
  *
  */
+
+#This is log mdc.c changes
+
 #include "private/mdc.h"
 #include "private/json_format.h"
 
