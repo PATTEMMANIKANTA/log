@@ -1,3 +1,4 @@
+#This is conflict from log1
 /*
  *  Copyright (c) 2019 AT&T Intellectual Property.
  *  Copyright (c) 2018-2019 Nokia.
