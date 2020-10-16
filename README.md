@@ -5,7 +5,7 @@ A thread-safe logging C API library with Mapped Diagnostics Context (MDC) suppor
 
 Overview
 --------
-###TEST
+
 ### Library initialization
 
 Library initialization is an optional step, which can be done using mdclog_init() function.
